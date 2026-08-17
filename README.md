@@ -41,6 +41,9 @@ Full usage guide is built into the app (说明书 / Manual button).
 
 ## Changelog
 
+### v1.2 (2026-08-17)
+- Version bumped to 1.2
+
 ### v1.1.3 (2026-08-17)
 - Fixed superweapon support removal: revoke now calls SuperClass::Lose and repaints the sidebar
 - Fixed auto-repair hook clobbering EDX (BuildQueueRoot), which disabled enemy repair logic
