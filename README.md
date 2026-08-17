@@ -2,7 +2,7 @@
 
 A lightweight trainer for **Mental Omega 3.3.6** (Red Alert 2: Yuri's Revenge mod) — campaign / single-player skirmish only.
 
-**Author**: Heilongv · **Version**: 1.1 · **Free forever**
+**Author**: Heilongv · **Version**: 1.1.1 · **Free forever**
 
 ## Features
 
@@ -22,7 +22,7 @@ A lightweight trainer for **Mental Omega 3.3.6** (Red Alert 2: Yuri's Revenge mo
 
 ## Requirements
 
-- Windows 7 or later (64-bit)
+- Windows 8.1 or later (64-bit)
 - Mental Omega 3.3.6 (any version of Yuri's Revenge 1.001)
 
 ## Usage
@@ -40,6 +40,11 @@ Full usage guide is built into the app (说明书 / Manual button).
 - Redistribution or modification of this software for resale is prohibited.
 
 ## Changelog
+
+### v1.1.1 (2026-08-16)
+- Fixed building capture queue corruption when multiple buildings were captured at once
+- Fixed superweapon grant bounds check and remote-memory leak
+- Closed multiplayer bypass on Force Win / Map Reveal hotkeys
 
 ### v1.1 (2026-08-11)
 - Map Reveal now also turns on the minimap radar
