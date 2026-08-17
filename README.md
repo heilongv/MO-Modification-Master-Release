@@ -2,7 +2,7 @@
 
 A lightweight trainer for **Mental Omega 3.3.6** (Red Alert 2: Yuri's Revenge mod) — campaign / single-player skirmish only.
 
-**Author**: Heilongv · **Version**: 1.1.3 · **Free forever**
+**Author**: Heilongv · **Version**: 1.2 · **Free forever**
 
 ## Features
 
