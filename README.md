@@ -2,7 +2,7 @@
 
 A lightweight trainer for **Mental Omega 3.3.6** (Red Alert 2: Yuri's Revenge mod) — campaign / single-player skirmish only.
 
-**Author**: Heilongv · **Version**: 1.1.1 · **Free forever**
+**Author**: Heilongv · **Version**: 1.1.2 · **Free forever**
 
 ## Features
 
@@ -40,6 +40,10 @@ Full usage guide is built into the app (说明书 / Manual button).
 - Redistribution or modification of this software for resale is prohibited.
 
 ## Changelog
+
+### v1.1.2 (2026-08-17)
+- Handle/API declaration hardening, hotkey config validation, disconnect idempotency, action-failure logging
+- Core docstrings stripped from compiled pyd (build-only change)
 
 ### v1.1.1 (2026-08-16)
 - Fixed building capture queue corruption when multiple buildings were captured at once
